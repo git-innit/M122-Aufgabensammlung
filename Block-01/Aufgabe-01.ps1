@@ -1,1 +1,1 @@
-Get-ChildItem
+Write-Host "Hallo Welt!"

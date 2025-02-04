@@ -1,1 +1,2 @@
-New-Item -ItemType Directory -Name "TestOrdner"
+$Name = "Realname"
+Write-Host $Name
